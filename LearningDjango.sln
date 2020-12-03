@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LearningDjango", "LearningDjango\LearningDjango.pyproj", "{24FB1310-8394-4472-904E-CDA7429BD6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FB1310-8394-4472-904E-CDA7429BD6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FB1310-8394-4472-904E-CDA7429BD6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FB1310-8394-4472-904E-CDA7429BD6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FB1310-8394-4472-904E-CDA7429BD6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDB0E3F-9E2B-44E8-A9D0-1AB8CAB169BF}
+	EndGlobalSection
+EndGlobal
